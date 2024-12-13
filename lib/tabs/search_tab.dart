@@ -12,7 +12,7 @@ class _SearchTabState extends State<SearchTab> {
 
   List<Map<String, String>> movies = [];
   bool isLoading = false;
-
+  ////////////
   void _searchMovies(String query) async {
     setState(() {
       isLoading = true;
