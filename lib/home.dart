@@ -40,7 +40,7 @@ class _HomeScreenState extends State<HomeScreen> {
               icon: ImageIcon(AssetImage('assets/images/home.png')),
               label: 'HOME'),
           BottomNavigationBarItem(
-              icon: ImageIcon(AssetImage('assets/images/search.png')),
+              icon: ImageIcon(AssetImage('assets/images/search-2.png')),
               label: 'SEARCH'),
           BottomNavigationBarItem(
               icon: ImageIcon(AssetImage('assets/images/movie.png')),
